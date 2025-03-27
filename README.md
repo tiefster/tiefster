@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm currently working on my Bachelors in Cybersecurity and Information Assurance at WGU and will be taking Programming and Scripting and Database courses in the upcoming term.
 
-I'm looking for help with anything really, as far as coding goes I've been stuck in tutorial heck for the past few years. Any resources are appreciated!
+I'm looking for help with anything really, any resources related to coding, scripting, and infosec are greatly appreciated!
