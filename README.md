@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on my Bachelors in Cybersecurity and Information Assurance at WGU and will be taking Programming and Scripting and Database courses in the upcoming term.
+I'm currently working on my Bachelors in Cybersecurity and Information Assurance at WGU and I want to become more proficient at coding.
 
 I'm looking for help with anything really, any resources related to coding, scripting, and infosec are greatly appreciated!
